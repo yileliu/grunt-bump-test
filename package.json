@@ -1,6 +1,6 @@
 {
   "name": "grunt-bump-test",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "test grunt-bump increase pakcage version automatically",
   "main": "index.js",
   "scripts": {
